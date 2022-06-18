@@ -17,4 +17,4 @@ A website design for selling the PS4. The website layout is responsive and mobil
 
 Take a look at these couple examples that I have in my own portfolio:
 
-- **PS5 Controller Website Design**: https://github.com/hodinsay/BMW-Bike-Website-Design](https://github.com/hodinsay/PS5-Controllers-Website-Design
+- **PS5 Controller Website Design**: https://github.com/hodinsay/PS5-Controllers-Website-Design
